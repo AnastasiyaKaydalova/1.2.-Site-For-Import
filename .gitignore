@@ -1,4 +1,4 @@
-# ignore all files in the tmp/ directory tmp/
+# ignore all files in the tmp/directory tmp/
 Thumbs.db
 .DS_Store
 *_old
